@@ -1,1 +1,1 @@
-from .mcp_agent import agent
+from . import agent
