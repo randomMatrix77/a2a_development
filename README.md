@@ -1,6 +1,8 @@
 # a2a_development
 A Python project showcasing practical scripts and experiments using Google’s Accessory Development Kit (ADK), Large Language Model (LLM) agents, and Model Context Protocol (MCP).
 
+![Example](./assets/mcp_tool_recording.gif)
+
 ## Overview
 This repository serves as a showcase of my hands-on work with Google’s ADK, designed for potential employers and collaborators. It features Python scripts that demonstrate how to run LLM agents with the ADK, as well as an example that combines the ADK with the Model Context Protocol (MCP) for enhanced context handling.
 
